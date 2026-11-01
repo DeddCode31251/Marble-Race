@@ -2,7 +2,7 @@
 # Marble-Race
 A 3d design of a marble race made using onshape.com
 Week 2 of the Half-life Program by hackclub.
-Project had been stopped.
+Project had been stopped for some reasons.
 
 # Preview
 
